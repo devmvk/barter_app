@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//TODO impl image picker
 class TradeBagScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
