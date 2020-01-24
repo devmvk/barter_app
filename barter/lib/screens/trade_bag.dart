@@ -11,7 +11,7 @@ class TradeBagScreen extends StatelessWidget {
         ),
         body: Center(
           child: Container(
-            child: Text('Hello'),
+            child: Text('Hello User'),
           ),
         ),
       )
